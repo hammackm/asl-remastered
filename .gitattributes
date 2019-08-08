@@ -5,3 +5,4 @@ train_labels filter=lfs diff=lfs merge=lfs -text
 val_images filter=lfs diff=lfs merge=lfs -text
 val_lables filter=lfs diff=lfs merge=lfs -text
 val_labels filter=lfs diff=lfs merge=lfs -text
+src/flask/train_images filter=lfs diff=lfs merge=lfs -text
