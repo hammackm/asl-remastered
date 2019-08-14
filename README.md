@@ -5,6 +5,8 @@ American Sign Language or ASL, is a language with around 375000 users in the wor
 
 ## How this is accomplished
 The web-based frontend built in React serves as the intermediary.
+The users can click to start listening to voice input. The voice input will then show up in the dialogue area. The users can the other button to open up the webcam and a interface to look for ASL signs and will allow the user to spell out a phrase or sentence.
+<img src="https://raw.githubusercontent.com/hammackm/asl-remastered/master/public/ui_capture.png" width="1000">
 
 
 
@@ -20,3 +22,4 @@ To run everything
 	-run voiceText.py as the voice-to-text backend
 	-run aslText.py as the asl-to-text backend
 	-run npm start in the asl-remastered dir level
+
