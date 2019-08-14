@@ -66,7 +66,7 @@ function MainBodyHook(props) {
                                         </Button>
                                     </Typography>
                                 </Grid>
-                                <Grid item xs={4}><Typography variant={"h4"}><b>Assistive Tech Warriors</b></Typography></Grid>
+                                <Grid item xs={4}><Typography variant={"h4"}><b>ASL Interpreter</b></Typography></Grid>
                                 <Grid item xs={4}>
                                     <Typography variant={"h5"}>
                                         <Button variant="outlined" className={classes.buttonAsl} onClick={props.onClickHandlerAsl}>

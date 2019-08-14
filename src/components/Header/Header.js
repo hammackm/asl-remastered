@@ -27,7 +27,7 @@ function Header() {
             <AppBar style={{display: "flex", flexDirection: "column", background: "#30343F"}} position="static" className={styles.Appbar}>
                 <Toolbar>
                     <Typography className={styles.AppBarTitle} variant="h4" color="inherit" style = {{flex: 1}}>
-                        Assistive Tech Warriors
+                        ASL Interpreter
                     </Typography>
                 </Toolbar>
             </AppBar>
