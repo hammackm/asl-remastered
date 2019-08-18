@@ -22,4 +22,6 @@ To run everything
 	-run voiceText.py as the voice-to-text backend
 	-run aslText.py as the asl-to-text backend
 	-run npm start in the asl-remastered dir level
-
+## References
+Mitchell, Ross; Young, Travas; Bachleda, Bellamie; Karchmer, Michael (2006). "How Many People Use ASL in the United States?: Why Estimates Need Updating" (PDF). Sign Language Studies. 6 (3). ISSN 0302-1475. Retrieved August 17, 2019.
+Saha, D.. (2018, May 9). Sign-Language (Version 1). figshare. https://doi.org/10.6084/m9.figshare.6241901.v1A very simple CNN project.
